@@ -2,6 +2,8 @@
 
 Course homework project scaffold.
 
+**Walkthrough video:** [https://youtu.be/8dyofoe_E-8](https://youtu.be/8dyofoe_E-8)
+
 ## Business workflow and task
 
 ### Chosen workflow
